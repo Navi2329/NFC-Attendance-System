@@ -53,3 +53,4 @@ class AttendanceController {
     return 'No matching student found';
   }
 }
+
